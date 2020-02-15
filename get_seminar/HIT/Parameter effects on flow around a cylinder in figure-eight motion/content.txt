@@ -1,0 +1,14 @@
+演讲人： László Baranyi
+题  目： Parameter effects on flow around a cylinder in figure-eight motion
+时  间： 2019 年 10 月 28日 10:00-11:00
+地  点：哈工大(深圳)  A507
+ 
+讲座内容content of Seminar
+ 
+Flow around a cylinder oscillating in transverse or in-line direction to the main stream has long been a focus of attention. In real life, however, both transverse and in-line motions occur simultaneously, resulting in a two-degree-of freedom (2-DOF) motion. A typical motion is when the oscillation frequency in in-line direction is double that of the transverse direction (fx = 2fy), resulting in a figure-eight or a distorted figure-eight path depending on the phase angle between the two motions.
+Forced figure-eight cylinder motion is investigated here against frequency ratio FR=fv / St0 (where St0 is the Strouhal number for a stationary cylinder at the given Reynolds number) for different Reynolds numbers Re with both clockwise (CW) and anticlockwise (ACW) orbits of the cylinder on the upper loop of the figure-eight path. The research was performed using a finite difference two-dimensional in-house code developed by the author
+From numerical simulations it is found that both Re and direction of orbit have a major effect on mechanical energy transfer E between the fluid and the cylinder and on the time-mean of lift. The time-mean (TM) of lift is mainly zero when plotted against FR for the ACW orbit and is mainly positive and increases with Re for the CW orbit. Below a certain Re value the TM of lift becomes zero, leading to bifurcation of the results. Some of the computations are repeated for smaller amplitude ratios (ε=Ax/Ay) (with more elongated figure-eight orbits), which leads to the TM of lift remaining zero for a larger Re interval with CW orbits.
+E values are mainly positive for the ACW orbit and increase with Re. Positive energy transfer values mean a potential risk of vortex-induced vibration (VIV). Interestingly, E values remained negative in the investigated parameter domain for the CW orbit (no danger of VIV). This finding may have implications for flow control.
+ 
+简历brief bio:
+Professor László Baranyi works at the Department of Fluid and Heat Engineering, University of Miskolc (Hungary). He lectures primarily on fluid mechanics, heat transfer, and computational fluid dynamics. His field of research is fluid-structure interaction and numerical simulation. His research earlier focused on numerical simulation of forced cylinder oscillation but has recently expanded into free vibration with one or two degrees of freedom. He spent two years as a visiting professor at Nagaoka University of Technology (Japan) and has given talks at universities around Europe. He is an editor of the Journal of Computational and Applied Mechanics, a regular reviewer for several leading journals, and a regular co-developer of sessions of the ASME Pressure Vessels and Piping Conferences.

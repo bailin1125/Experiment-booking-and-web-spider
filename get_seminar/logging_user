@@ -1,0 +1,103 @@
+2019-09-07 23:56:09,478 logger ERROR 访问网址出错，请检查后再试
+2019-09-07 23:56:09,479 logger ERROR HTTPSConnectionPool(host='www.phbs.pku.edu.cn', port=443): Max retries exceeded with url: /2019/seminar_0830/1968.html (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1056)')))
+2019-09-07 23:57:17,812 logger ERROR 访问网址出错，请检查后再试
+2019-09-07 23:57:17,814 logger ERROR name 'r' is not defined
+2019-09-07 23:57:46,101 logger ERROR 访问网址出错，请检查后再试
+2019-09-07 23:57:46,102 logger ERROR HTTPSConnectionPool(host='www.phbs.pku.edu.cn', port=443): Max retries exceeded with url: /2019/seminar_0830/1968.html (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1056)')))
+2019-09-08 00:00:10,788 logger ERROR 访问网址出错，请检查后再试
+2019-09-08 00:00:10,789 logger ERROR HTTPSConnectionPool(host='www.phbs.pku.edu.cn', port=443): Max retries exceeded with url: /2019/seminar_0830/1968.html (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1056)')))
+2019-09-08 00:05:36,370 logger ERROR 访问网址出错，请检查后再试
+2019-09-08 00:05:36,371 logger ERROR 404 Client Error: Not Found for url: https://statics.phbs.pku.edu.cn/uploadfile/2019/0612/20190612081354609.jpg
+2019-09-08 00:23:04,584 logger ERROR 访问网址出错，请检查后再试
+2019-09-08 00:23:04,585 logger ERROR HTTPSConnectionPool(host='www.phbs.pku.edu.cn', port=443): Max retries exceeded with url: /2019/seminar_0830/1968.html (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1056)')))
+2019-09-08 00:29:59,296 logger ERROR 访问网址出错，请检查后再试
+2019-09-08 00:29:59,298 logger ERROR HTTPSConnectionPool(host='www.phbs.pku.edu.cn', port=443): Max retries exceeded with url: /2019/seminar_0830/1968.html (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1056)')))
+2019-09-08 01:21:35,989 logger ERROR 访问网址出错，请检查后再试
+2019-09-08 01:21:35,991 logger ERROR HTTPSConnectionPool(host='www.phbs.pku.edu.cn', port=443): Max retries exceeded with url: /2019/seminar_0830/1968.html (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1056)')))
+2019-09-08 11:33:02,685 logger ERROR 访问网址出错，请检查后再试
+2019-09-08 11:33:02,686 logger ERROR Invalid URL 'h': No schema supplied. Perhaps you meant http://h?
+2019-09-08 11:34:14,893 logger ERROR 访问网址出错，请检查后再试
+2019-09-08 11:34:14,896 logger ERROR Invalid URL 'h': No schema supplied. Perhaps you meant http://h?
+2019-09-12 21:25:33,487 logger ERROR 访问网址出错，请检查后再试
+2019-09-12 21:25:33,489 logger ERROR HTTPSConnectionPool(host='www.phbs.pku.edu.cn', port=443): Max retries exceeded with url: /2019/seminar_0830/1968.html (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1056)')))
+2019-09-13 00:01:57,460 logger ERROR 访问网址出错，请检查后再试
+2019-09-13 00:01:57,461 logger ERROR Invalid URL '(Sep 2nd) Multidimensional solitons【Nanshan i-Park】 ': No schema supplied. Perhaps you meant http://(Sep 2nd) Multidimensional solitons【Nanshan i-Park】 ?
+2019-09-13 00:03:00,302 logger ERROR 访问网址出错，请检查后再试
+2019-09-13 00:03:00,304 logger ERROR Invalid URL '(Sep 2nd) Multidimensional solitons【Nanshan i-Park】 ': No schema supplied. Perhaps you meant http://(Sep 2nd) Multidimensional solitons【Nanshan i-Park】 ?
+2019-09-13 00:11:07,623 logger ERROR 访问网址出错，请检查后再试
+2019-09-13 00:11:07,624 logger ERROR Invalid URL '(Sep 2nd) Multidimensional solitons【Nanshan i-Park】 ': No schema supplied. Perhaps you meant http://(Sep 2nd) Multidimensional solitons【Nanshan i-Park】 ?
+2019-09-13 00:17:21,504 logger ERROR 忽略错误异常的文件夹
+2019-09-13 00:18:18,689 logger ERROR 忽略错误异常的文件夹
+2019-09-13 00:18:48,648 logger ERROR 忽略错误异常的文件夹
+2019-09-13 00:19:45,385 logger ERROR 忽略错误异常的文件夹
+2019-09-13 13:21:02,991 logger ERROR 访问网址出错，请检查后再试
+2019-09-13 13:21:02,993 logger ERROR HTTPSConnectionPool(host='lib.utsz.edu.cn', port=443): Max retries exceeded with url: /lecture/view/2703.html (Caused by ProxyError('Cannot connect to proxy.', OSError(0, 'Error')))
+2019-09-13 13:22:01,495 logger ERROR 访问网址出错，请检查后再试
+2019-09-13 13:22:01,496 logger ERROR HTTPSConnectionPool(host='lib.utsz.edu.cn', port=443): Max retries exceeded with url: /lecture/schedule.html?locale=zh_CN (Caused by ProxyError('Cannot connect to proxy.', OSError(0, 'Error')))
+2019-09-13 13:23:02,550 logger ERROR 访问网址出错，请检查后再试
+2019-09-13 13:23:02,551 logger ERROR HTTPSConnectionPool(host='lib.utsz.edu.cn', port=443): Max retries exceeded with url: /lecture/view/2703.html (Caused by ProxyError('Cannot connect to proxy.', OSError(0, 'Error')))
+2019-09-13 13:23:56,969 logger ERROR 访问网址出错，请检查后再试
+2019-09-13 13:23:56,970 logger ERROR HTTPSConnectionPool(host='lib.utsz.edu.cn', port=443): Max retries exceeded with url: /lecture/view/2703.html (Caused by ProxyError('Cannot connect to proxy.', OSError(0, 'Error')))
+2019-09-13 13:27:40,879 logger ERROR 访问网址出错，请检查后再试
+2019-09-13 13:27:40,880 logger ERROR HTTPSConnectionPool(host='lib.utsz.edu.cn', port=443): Max retries exceeded with url: /lecture/schedule.html?locale=zh_CN (Caused by ProxyError('Cannot connect to proxy.', OSError(0, 'Error')))
+2019-09-13 13:27:52,647 logger ERROR 访问网址出错，请检查后再试
+2019-09-13 13:27:52,648 logger ERROR HTTPSConnectionPool(host='lib.utsz.edu.cn', port=443): Max retries exceeded with url: /lecture/schedule.html?locale=zh_CN (Caused by ProxyError('Cannot connect to proxy.', OSError(0, 'Error')))
+2019-09-13 13:27:59,409 logger ERROR 访问网址出错，请检查后再试
+2019-09-13 13:27:59,410 logger ERROR HTTPSConnectionPool(host='lib.utsz.edu.cn', port=443): Max retries exceeded with url: /lecture/schedule.html?locale=zh_CN (Caused by ProxyError('Cannot connect to proxy.', OSError(0, 'Error')))
+2019-09-13 13:30:29,744 logger ERROR 访问网址出错，请检查后再试
+2019-09-13 13:30:29,745 logger ERROR HTTPSConnectionPool(host='lib.utsz.edu.cn', port=443): Max retries exceeded with url: /lecture/view/2703.html (Caused by ProxyError('Cannot connect to proxy.', OSError(0, 'Error')))
+2019-09-13 13:34:41,458 logger ERROR 访问网址出错，请检查后再试
+2019-09-13 13:34:41,458 logger ERROR HTTPSConnectionPool(host='lib.utsz.edu.cn', port=443): Max retries exceeded with url: /lecture/schedule.html?locale=zh_CN (Caused by ProxyError('Cannot connect to proxy.', OSError(0, 'Error')))
+2019-09-13 13:34:57,713 logger ERROR 访问网址出错，请检查后再试
+2019-09-13 13:34:57,714 logger ERROR HTTPSConnectionPool(host='lib.utsz.edu.cn', port=443): Max retries exceeded with url: /lecture/schedule.html?locale=zh_CN (Caused by ProxyError('Cannot connect to proxy.', OSError(0, 'Error')))
+2019-09-13 13:37:39,636 logger ERROR 访问网址出错，请检查后再试
+2019-09-13 13:37:39,637 logger ERROR HTTPSConnectionPool(host='lib.utsz.edu.cn', port=443): Max retries exceeded with url: /lecture/schedule.html?locale=zh_CN (Caused by ProxyError('Cannot connect to proxy.', OSError(0, 'Error')))
+2019-09-13 13:41:45,960 logger ERROR 访问网址出错，请检查后再试
+2019-09-13 13:41:45,961 logger ERROR HTTPSConnectionPool(host='lib.utsz.edu.cn', port=443): Max retries exceeded with url: /lecture/schedule.html?locale=zh_CN (Caused by ProxyError('Cannot connect to proxy.', OSError(0, 'Error')))
+2019-09-13 13:48:46,341 logger ERROR 访问网址出错，请检查后再试
+2019-09-13 13:48:46,343 logger ERROR HTTPSConnectionPool(host='lib.utsz.edu.cn', port=443): Max retries exceeded with url: /lecture/schedule.html?locale=zh_CN (Caused by ProxyError('Cannot connect to proxy.', OSError(0, 'Error')))
+2019-09-13 13:48:53,306 logger ERROR 访问网址出错，请检查后再试
+2019-09-13 13:48:53,306 logger ERROR HTTPSConnectionPool(host='lib.utsz.edu.cn', port=443): Max retries exceeded with url: /lecture/schedule.html?locale=zh_CN (Caused by ProxyError('Cannot connect to proxy.', OSError(0, 'Error')))
+2019-09-13 13:49:00,605 logger ERROR 访问网址出错，请检查后再试
+2019-09-13 13:49:00,606 logger ERROR HTTPSConnectionPool(host='lib.utsz.edu.cn', port=443): Max retries exceeded with url: /lecture/schedule.html?locale=zh_CN (Caused by ProxyError('Cannot connect to proxy.', OSError(0, 'Error')))
+2019-09-13 13:49:08,628 logger ERROR 访问网址出错，请检查后再试
+2019-09-13 13:49:08,630 logger ERROR HTTPSConnectionPool(host='lib.utsz.edu.cn', port=443): Max retries exceeded with url: /lecture/schedule.html?locale=zh_CN (Caused by ProxyError('Cannot connect to proxy.', OSError(0, 'Error')))
+2019-09-13 13:49:24,853 logger ERROR 访问网址出错，请检查后再试
+2019-09-13 13:49:24,855 logger ERROR HTTPSConnectionPool(host='lib.utsz.edu.cn', port=443): Max retries exceeded with url: /lecture/schedule.html?locale=zh_CN (Caused by ProxyError('Cannot connect to proxy.', OSError(0, 'Error')))
+2019-09-13 13:53:09,489 logger ERROR 访问网址出错，请检查后再试
+2019-09-13 13:53:13,208 logger ERROR HTTPSConnectionPool(host='lib.utsz.edu.cn', port=443): Max retries exceeded with url: /lecture/schedule.html?locale=zh_CN (Caused by ProxyError('Cannot connect to proxy.', OSError(0, 'Error')))
+2019-09-29 15:23:41,894 logger ERROR 配置文件读取异常，请检查后重试（程序2s后退出）
+2019-09-29 15:23:41,894 logger ERROR 配置文件读取异常，请检查后重试（程序2s后退出）
+2019-09-29 15:23:41,897 logger ERROR No option 'thinghua' in section: 'falg'
+2019-09-29 15:23:41,897 logger ERROR No option 'thinghua' in section: 'falg'
+2019-09-29 15:24:06,236 logger ERROR 配置文件读取异常，请检查后重试（程序2s后退出）
+2019-09-29 15:24:06,236 logger ERROR 配置文件读取异常，请检查后重试（程序2s后退出）
+2019-09-29 15:24:06,239 logger ERROR No option 'thinghua' in section: 'falg'
+2019-09-29 15:24:06,239 logger ERROR No option 'thinghua' in section: 'falg'
+2019-09-29 15:24:31,669 logger ERROR 配置文件读取异常，请检查后重试（程序2s后退出）
+2019-09-29 15:24:31,669 logger ERROR 配置文件读取异常，请检查后重试（程序2s后退出）
+2019-09-29 15:24:31,672 logger ERROR No option 'thinghua' in section: 'falg'
+2019-09-29 15:24:31,672 logger ERROR No option 'thinghua' in section: 'falg'
+2019-09-29 15:52:54,378 logger ERROR 忽略错误异常的文件夹
+2019-10-27 12:13:32,304 logger ERROR 访问网址出错，请检查后再试
+2019-10-27 12:13:32,305 logger ERROR HTTPSConnectionPool(host='www.phbs.pku.edu.cn', port=443): Max retries exceeded with url: /2019/seminar_1021/1974.html (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1056)')))
+2019-10-27 12:14:20,337 logger ERROR 访问网址出错，请检查后再试
+2019-10-27 12:14:20,338 logger ERROR HTTPSConnectionPool(host='www.phbs.pku.edu.cn', port=443): Max retries exceeded with url: /2019/seminar_1021/1974.html (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1056)')))
+2019-10-27 12:20:58,522 logger ERROR 访问网址出错，请检查后再试
+2019-10-27 12:21:01,754 logger ERROR HTTPSConnectionPool(host='www.phbs.pku.edu.cn', port=443): Max retries exceeded with url: //about//Allnews//seminar//index.html (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1056)')))
+2019-10-27 13:02:07,856 logger ERROR 访问网址出错，请检查后再试
+2019-10-27 13:02:07,857 logger ERROR HTTPSConnectionPool(host='www.sigs.tsinghua.edu.cn', port=443): Max retries exceeded with url: //xsdt//index.jhtml (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1056)')))
+2019-10-27 13:07:26,723 logger ERROR 访问网址出错，请检查后再试
+2019-10-27 13:07:26,725 logger ERROR HTTPSConnectionPool(host='www.phbs.pku.edu.cn', port=443): Max retries exceeded with url: /2019/seminar_1021/1974.html (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1056)')))
+2019-10-27 13:11:57,141 logger ERROR 访问网址出错，请检查后再试
+2019-10-27 13:11:57,142 logger ERROR request() got an unexpected keyword argument 'vertify'
+2019-10-27 13:12:13,512 logger ERROR 访问网址出错，请检查后再试
+2019-10-27 13:12:13,513 logger ERROR HTTPSConnectionPool(host='www.phbs.pku.edu.cn', port=443): Max retries exceeded with url: /2019/seminar_1021/1974.html (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1056)')))
+2019-10-27 13:12:55,660 logger ERROR 访问网址出错，请检查后再试
+2019-10-27 13:12:56,900 logger ERROR HTTPSConnectionPool(host='www.phbs.pku.edu.cn', port=443): Max retries exceeded with url: //about//Allnews//seminar//index.html (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1056)')))
+2019-10-27 13:14:38,853 logger ERROR 访问网址出错，请检查后再试
+2019-10-27 13:14:38,855 logger ERROR HTTPSConnectionPool(host='www.phbs.pku.edu.cn', port=443): Max retries exceeded with url: //about//Allnews//seminar//index.html (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1056)')))
+2019-10-27 13:16:24,780 logger ERROR 访问网址出错，请检查后再试
+2019-10-27 13:16:24,781 logger ERROR HTTPSConnectionPool(host='www.phbs.pku.edu.cn', port=443): Max retries exceeded with url: /2019/seminar_1021/1974.html (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1056)')))
+2019-10-27 13:16:55,229 logger ERROR 访问网址出错，请检查后再试
+2019-10-27 13:16:56,400 logger ERROR HTTPSConnectionPool(host='www.phbs.pku.edu.cn', port=443): Max retries exceeded with url: //about//Allnews//seminar//index.html (Caused by SSLError(SSLError(1, '[SSL: WRONG_VERSION_NUMBER] wrong version number (_ssl.c:1056)')))
